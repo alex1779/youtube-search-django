@@ -32,7 +32,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Diary App Using Django <a name="about-project"></a>
+# 📖 Youtube Search App with Django <a name="about-project"></a>
 
 **Youtube Search App with Django** In this project, I use the YouTube Data API to fetch YouTube videos and display them in the Django application. In addition to Django, I also use Python requests to use the YouTube Data API.
 
