@@ -43,6 +43,7 @@
 - Django
 - Bootstrap
 - CSS
+- Youtube API
 
 <details>
   <summary>Client</summary>
